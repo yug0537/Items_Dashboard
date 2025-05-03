@@ -11,3 +11,6 @@ To find the revenue generated from diffrent category and Region as per different
 - At the end we created a dashboard by collecting all those charts and columns ,slicers on one sheet from where we will do our analysation part by changing slicer as per our requirement and get some useful insights
 ## Dashboard
 - <a href="https://github.com/yug0537/Items_Dashboard/blob/main/Items_Dashboard.xlsx">View Dashboard</a>
+## Dashboard Image
+<img width="1428" alt="Screenshot 2025-05-03 at 20 14 45" src="https://github.com/user-attachments/assets/61e62cbd-e2e1-4ae7-96e5-9b441d583d44" />
+
