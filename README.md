@@ -15,7 +15,10 @@ To find the revenue generated from diffrent category and Region as per different
 <img width="1428" alt="Screenshot 2025-05-03 at 20 14 45" src="https://github.com/user-attachments/assets/61e62cbd-e2e1-4ae7-96e5-9b441d583d44" />
 
 ## Project Insights
-- We got revenue generated for different items through this dashboard and got to know that which items have generated more revenues
-- Also we got unit solds for different categories as per different months of the year for given regions in this we will be able to get which region has been generating more revenue for us which will help us to identify which products and categories as per region are more important for future growth
-- Through slicer we will be able to find which region according to months are more productive
+- Canon camera has the highest revenue generated item in all categories.
+- Most Number of units sold in the west region.
+- January is the most revenue generated Month of the Year.
+- Category Fashion and clothing in East Region sold the most units among all region.
+## Final Conclusion
+From this project i can say that as units sold in south region is minimum so need to find the reason behind it plus april month also have the least number of units sold so need to work on that and to increase the canon camera supplies so that more revenue can be generated,need to find the reasons which are more affected and gives lesser revenue.
 
